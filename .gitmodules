@@ -1,0 +1,3 @@
+[submodule "nn-explicit-song-recognizer"]
+	path = nn-explicit-song-recognizer
+	url = git@github.com:martin-studna/nn-explicit-song-recognizer.git
